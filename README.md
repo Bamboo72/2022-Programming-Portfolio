@@ -4,12 +4,12 @@ Email: jaschwartz27@gmail.com
 
 Link to 2021 Programming Portfolio: [here](https://bamboo72.github.io/2021-Programming-Portfolio/)
 
-Languages:
+Languages I've Used:
 1. Java
 2. Python
 3. C++
 
-Certifications: 
+State Certifications: 
 * Utah State Certified in C++
 * Utah State Certified in Java
 * Utah State Certified in Advanced Java
