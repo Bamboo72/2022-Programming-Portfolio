@@ -1,3 +1,4 @@
+E
 ## Welcome to Jacob Schwartz's 2022 Programming Portfolio (Currently a WIP)
 
 Email: jaschwartz27@gmail.com
