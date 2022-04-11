@@ -1,5 +1,7 @@
-E
+
 ## Welcome to Jacob Schwartz's 2022 Programming Portfolio (Currently a WIP)
+This portfolio is currently a work in progress. I hope to add more details and images to describe the projects in greater detail.
+If you are curious about any project in particular, or would like to see the code, feel free to contact me!
 
 Email: jaschwartz27@gmail.com
 
@@ -26,6 +28,7 @@ Skills/Experience:
 ## Fall Semester 2021
 ### CS 1410 Intro to Computer Science 2
 All programs were written using Java.
+Notable projects:
 - Text pyramid display app
 - Calendar display app
 - Conway's Game of Life app
@@ -34,6 +37,7 @@ All programs were written using Java.
 
 ### CS 1440 Methods of Computer Science\
 All programs were written using Python.
+Notable projects:
 - Decrypter and Encrypter app
 - Home made text tools such as "cat", "tac", "cut", "paste", "grep", "sort", and "wc".
 - Big dataset processing
@@ -44,6 +48,7 @@ All programs were written using Python.
 ## Spring Semester 2022
 ### CS 2410 Introduction to Event Driven Programming and GUI's
 All programs were written using Java and some XML in Android Studio.
+Notable projects:
 - Mad Libs app
 - Web Browser app
 - Calculator app
@@ -52,6 +57,7 @@ All programs were written using Java and some XML in Android Studio.
 
 ### CS 2420 Algorithms and Data Structures
 All programs were written using Java.
+Notable projects:
 - Word ladders using Linked Lists and AVL Trees
 - Recursion practce traversing trees
 - Poetry generator using Hashing
