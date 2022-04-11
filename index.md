@@ -1,4 +1,4 @@
-     
+     <br/>
      
 ## Welcome to Jacob Schwartz's 2022 Programming Portfolio (Currently a WIP)
 This portfolio is currently a work in progress. I hope to add more details and images to describe the projects in greater detail.
